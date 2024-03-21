@@ -1,0 +1,36 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div.container{
+    width: 600px;
+    height: 400px;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    position: absolute;
+    top:100px;
+}
+
+div.one{
+    position:absolute;
+    top:10px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100%;
+    position: relative;
+} */
+
+
+
+
+
+
